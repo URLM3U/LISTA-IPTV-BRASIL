@@ -45,3 +45,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (01)|484134749               |328285662                              |http://trexth.xyz:80                     |
 | LISTA IPTV (02)|969003341029            |006662669402                           |http://prata23.shop                      |                   
 | LISTA IPTV (03)|eskuich                 |465691519                              |http://c4n.fun                           |                                        
+| LISTA IPTV (04)|11974034383             |eduardo0102                            |http://dns.papayapt.com.br               |
