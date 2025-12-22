@@ -50,3 +50,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (06)|WeR5vG9bsY              |X3QxtSSTAC                              |http://site.poupadefrutas.shop           |
 | LISTA IPTV (07)|79785011                |93075130                                |http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs:80|
 | LISTA IPTV (08)|718423457               |539143340                               |http://iksds.site                        |
+| LISTA IPTV (09)|Alan123                 |Al1511                                  |http://dns.clientetv.net                 |
