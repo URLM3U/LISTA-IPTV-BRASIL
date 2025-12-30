@@ -46,10 +46,8 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (02)|969003341029            |006662669402                            |http://prata23.shop                      |                   
 | LISTA IPTV (03)|eskuich                 |465691519                               |http://c4n.fun                           |                                     
 | LISTA IPTV (04)|11974034383             |eduardo0102                             |http://dns.papayapt.com.br               |
-| LISTA IPTV (05)|Agostinho               |ReRAmG22                                |http://piratuga.xyz                      |
-| LISTA IPTV (06)|WeR5vG9bsY              |X3QxtSSTAC                              |http://site.poupadefrutas.shop           |
-| LISTA IPTV (07)|79785011                |93075130                                |http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs:80|
-| LISTA IPTV (08)|718423457               |539143340                               |http://iksds.site                        |
-| LISTA IPTV (09)|Alan123                 |Al1511                                  |http://dns.clientetv.net                 |
-| LISTA IPTV (10)|randi123                |randi123                                |http://tv.com.vc                         |
-| LISTA IPTV (11)|032490579768            |174692428479                            |http://dgbr.io                           |
+| LISTA IPTV (05)|79785011                |93075130                                |http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs:80|
+| LISTA IPTV (06)|718423457               |539143340                               |http://iksds.site                        |
+| LISTA IPTV (07)|Alan123                 |Al1511                                  |http://dns.clientetv.net                 |
+| LISTA IPTV (08)|randi123                |randi123                                |http://tv.com.vc                         |
+| LISTA IPTV (09)|032490579768            |174692428479                            |http://dgbr.io                           |
