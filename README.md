@@ -46,12 +46,10 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (02)|969003341029            |006662669402                            |http://prata23.shop                      |                   
 | LISTA IPTV (03)|eskuich                 |465691519                               |http://c4n.fun                           |                                     
 | LISTA IPTV (04)|11974034383             |eduardo0102                             |http://dns.papayapt.com.br               |
-| LISTA IPTV (05)|79785011                |93075130                                |http://xlsdfgvertydthdfdfgh5634dsfdsr4f.ethertwo.sbs:80|
-| LISTA IPTV (06)|718423457               |539143340                               |http://iksds.site                        |
-| LISTA IPTV (07)|Alan123                 |Al1511                                  |http://dns.clientetv.net                 |
-| LISTA IPTV (08)|randi123                |randi123                                |http://tv.com.vc                         |
-| LISTA IPTV (09)|032490579768            |174692428479                            |http://dgbr.io                           |
-| LISTA IPTV (10)|189956566               |823971614                               |http://firetop1.site:80                  |
-| LISTA IPTV (11)|128300                  |10203040                                |http://ax-tv.site                        |
-                
-| LISTA IPTV (12)|@padre23                |@23claudio                              |http://7tvgols.link:80                   |
+| LISTA IPTV (05)|718423457               |539143340                               |http://iksds.site                        |
+| LISTA IPTV (06)|Alan123                 |Al1511                                  |http://dns.clientetv.net                 |
+| LISTA IPTV (07)|randi123                |randi123                                |http://tv.com.vc                         |
+| LISTA IPTV (08)|032490579768            |174692428479                            |http://dgbr.io                           |
+| LISTA IPTV (09)|189956566               |823971614                               |http://firetop1.site:80                  |
+| LISTA IPTV (10)|128300                  |10203040                                |http://ax-tv.site                        |               
+| LISTA IPTV (11)|@padre23                |@23claudio                              |http://7tvgols.link:80                   |
