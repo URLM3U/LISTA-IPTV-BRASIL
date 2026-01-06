@@ -53,3 +53,4 @@ Qualquer lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | LISTA IPTV (09)|189956566               |823971614                               |http://firetop1.site:80                  |
 | LISTA IPTV (10)|128300                  |10203040                                |http://ax-tv.site                        |               
 | LISTA IPTV (11)|@padre23                |@23claudio                              |http://7tvgols.link:80                   |
+| LISTA IPTV (12)|520762599033            |756041968422                            |http://takegot.net                       |
